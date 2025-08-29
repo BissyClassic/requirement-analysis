@@ -63,8 +63,7 @@ Objective: Visual representation of interactions between users and the system.
 # What are Use Case Diagrams?
 
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
-
- <img src="https://drive.google.com/file/d/1EaK3dE5fUxscFWxpirZV90orHb98QieP/view?usp=sharing">
+<iframe src="https://drive.google.com/file/d/1EaK3dE5fUxscFWxpirZV90orHb98QieP/preview" width="640" height="480" allow="autoplay"></iframe>
  
  # Acceptance Criteria ✅
 Objective: Establishing clear criteria for feature completion.
